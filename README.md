@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslord&label=Profile%20views&color=0e75b6&style=flat" alt="dslord" /> </p>
 
 ## 💫 About Me:
-<br><\br>- 🌱 I’m currently learning **DSA in C++**<br>- 👨‍💻 All of my projects are available at [github.com/dslord](github.com/dslord)<br>- 💬 Ask me about **C++ and beginner-level DSA**<br>- 📫 How to reach me **devanshsingh3107@gmail.com**
+<br>- 🌱 I’m currently learning **DSA in C++**<br>- 👨‍💻 All of my projects are available at [github.com/dslord](github.com/dslord)<br>- 💬 Ask me about **C++ and beginner-level DSA**<br>- 📫 How to reach me **devanshsingh3107@gmail.com**
 
 ## 🌐 Connect with me:
 <p align="left">
@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/18260880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18260880" height="30" width="40" /></a>
 <a href="https://instagram.com/dslord95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dslord95" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devansh_singh_b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devansh_singh_b4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devansh424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh424" height="30" width="40" /></a><br>
+<a href="https://www.leetcode.com/devansh424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh424" height="30" width="40" /></a><br><br>
 </p>
 
 ## 💻 Tech Stack:

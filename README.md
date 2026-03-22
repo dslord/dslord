@@ -26,7 +26,11 @@
 
 <p align="center">
 <img align="left" src="https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<br></p>
+
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=github_dark"/>
 <br></p>
 
 ## ✍️ Random Dev Quote

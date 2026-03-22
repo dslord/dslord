@@ -27,7 +27,7 @@
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-<br><br></p>
+<br></p>
 
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false"/>
@@ -39,4 +39,4 @@
 </p>
 
 ##
-From ![Devansh Singh](https://github.com/dslord)
+From <a target="Devansh Singh" href="https://github.com/dslord"/>

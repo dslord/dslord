@@ -38,5 +38,5 @@
 <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-##
-From <a target="Devansh Singh" href="https://github.com/dslord"/>
+## ------
+From <a target="blank" href="https://github.com/dslord">Devansh Singh</a>

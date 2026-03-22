@@ -4,7 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslord&label=Profile%20views&color=0e75b6&style=flat" alt="dslord" /> </p>
 
 ## 💫 About Me:
-<br>- 🌱 I’m currently learning **DSA in C++**<br>- 👨‍💻 All of my projects are available at [github.com/dslord](github.com/dslord)<br>- 💬 Ask me about **C++ and beginner-level DSA**<br>- 📫 How to reach me **devanshsingh3107@gmail.com**
+<p>
+<br>- 🌱 I’m currently learning **DSA in C++**
+<br>- 👨‍💻 All of my projects are available at [github.com/dslord](github.com/dslord)
+<br>- 💬 Ask me about **C++ and beginner-level DSA**
+<br>- 📫 How to reach me **devanshsingh3107@gmail.com**
+</p>
 
 ## 🌐 Connect with me:
 <p align="left">

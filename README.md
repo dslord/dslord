@@ -35,7 +35,6 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
 
 ##
 🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh</a>

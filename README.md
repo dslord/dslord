@@ -30,7 +30,7 @@
 <br><br></p>
 
 <p align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=darl&hide_border=false"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false"/>
 <br></p>
 
 ## ✍️ Random Dev Quote

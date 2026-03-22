@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&&layout=compact)
 <br>
 

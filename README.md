@@ -5,10 +5,11 @@
 
 ## 💫 About Me:
 <p>
-- 🌱 I’m currently learning __DSA in C++__
+- 🌱 I’m currently learning <strong>DSA in C++
 <br>- 👨‍💻 All of my projects are available at [github.com/dslord](github.com/dslord)
 <br>- 💬 Ask me about **C++ and beginner-level DSA**
 <br>- 📫 How to reach me **devanshsingh3107@gmail.com**
+<br>
 </p>
 
 ## 🌐 Connect with me:

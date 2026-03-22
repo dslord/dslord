@@ -21,7 +21,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=true&layout=compact"/><br>
+<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=true&layout=compact"/>
+  
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <br></p>
 

@@ -39,10 +39,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false"/>
 <br></p>
 
-## ✍️ Random Dev Quote
-<p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="110"/>
-</p>
-
 ##
 🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh</a>

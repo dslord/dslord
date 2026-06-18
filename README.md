@@ -28,7 +28,7 @@
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20&size_weight=0&count_weight=1&layout=compact"/>
 <br></p>
 
 <p align="center">

@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=true&count_private=true"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=true&border_radius=15"/>
 <br></p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <br></p>
 
 <p align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false&border_radius=15"/>
 <br></p>
 
 ##

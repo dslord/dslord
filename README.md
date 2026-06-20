@@ -27,8 +27,8 @@
 <br></p>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=dslord&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dslord&theme=dark&hide_border=true&langs_count=20&size_weight=0&count_weight=1&layout=compact"/>
+<img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&border_radius=15&include_all_commits=true"/>
+<img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&border_radius=15&size_weight=0&count_weight=1"/>
 <br></p>
 
 <p align="center">

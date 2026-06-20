@@ -23,16 +23,16 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=false"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=false&hide_border=true"/>
 <br></p>
 
 <p align="center">
-<img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&border_radius=15&include_all_commits=true"/>
-<img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&border_radius=15&size_weight=0&count_weight=1"/>
+<img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+<img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true"/>
 <br></p>
 
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark&hide_border=false&border_radius=15"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark"/>
 <br></p>
 
 ##

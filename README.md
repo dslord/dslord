@@ -36,4 +36,4 @@
 <br></p>
 
 ##
-🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh</a>
+🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh / dslord</a>

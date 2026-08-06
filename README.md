@@ -31,9 +31,7 @@
 <img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true"/>
 <br></p>
 
-<p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dslord&theme=dark"/>
-<br></p>
+
 
 ##
 🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh / dslord</a>

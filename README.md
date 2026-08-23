@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=dslord&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ## About Me
 
 * Computer Science Engineering student from India
@@ -43,8 +41,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
 
----
-
 ## Problem Solving
 
 <p align="center"> <a href="https://leetcode.com/u/dslord/"> <img src="https://img.shields.io/badge/LeetCode-dslord-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://www.hackerrank.com/profile/devansh_singh_b4"> <img src="https://img.shields.io/badge/HackerRank-devansh__singh__b4-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://codeforces.com/profile/dslord"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> <a href="https://atcoder.jp/settings/icon"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" /> </a> </p>
@@ -68,8 +64,6 @@
 <p align="center">
   <strong>Email:</strong> devanshsingh3107@gmail.com
 </p>
-
----
 
 ## GitHub Stats
 

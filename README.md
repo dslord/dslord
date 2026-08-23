@@ -47,17 +47,7 @@
 
 ## Problem Solving
 
-I'm actively practicing **Data Structures & Algorithms in C++** and improving my problem-solving skills through LeetCode and competitive programming.
-
-<p align="center">
-  <a href="https://leetcode.com/u/dslord/">
-    <img src="https://img.shields.io/badge/LeetCode-dslord-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/devansh_singh_b4">
-    <img src="https://img.shields.io/badge/HackerRank-devansh__singh__b4-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://leetcode.com/u/dslord/"> <img src="https://img.shields.io/badge/LeetCode-dslord-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://www.hackerrank.com/profile/devansh_singh_b4"> <img src="https://img.shields.io/badge/HackerRank-devansh__singh__b4-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://codeforces.com/profile/dslord"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> <a href="https://atcoder.jp/settings/icon"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" /> </a> </p>
 ---
 
 ## Connect With Me

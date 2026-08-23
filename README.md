@@ -1,37 +1,102 @@
-<h1 align="center">Hi 👋, I'm Devansh Singh</h1>
-<h3 align="center">CSE student from India passionate about coding and problem-solving.</h3>
+<h1 align="center">Hi, I'm Devansh Singh</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dslord&label=Profile%20views&color=0e75b6&style=flat" alt="dslord" /> </p>
-
-## 💫 About Me:
-<p>
-- 🌱 I’m currently learning Java and <strong>DSA in C++</strong>.
-<br>- 👨‍💻 All of my projects are available at <a href="github.com/dslord" target="blank"><strong>github.com/dslord</strong></a>
-<br>- 💬 Ask me about <strong>C++ and beginner-level DSA</strong>
-<br>- 📫 How to reach me: <strong>devanshsingh3107@gmail.com</strong>
-<br>
-</p>
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/devansh-singh-939734378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-singh-939734378" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/18260880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18260880" height="30" width="40" /></a> <a href="https://instagram.com/dslord95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dslord95" height="30" width="40" /></a> <a href="https://www.leetcode.com/dslord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh424" height="30" width="40" /></a> <a href="https://www.hackerrank.com/devansh_singh_b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devansh_singh_b4" height="30" width="40" /></a><br><br>
-</p>
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br>
-
-## 📊 GitHub Stats:
-<p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=false&count_private=false&hide_border=true"/>
-<br></p>
+<h3 align="center">CSE Student | C++ & DSA | Java | Building Projects & Learning by Doing</h3>
 
 <p align="center">
-<img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
-<img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true"/>
-<br></p>
+  <img src="https://komarev.com/ghpvc/?username=dslord&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+---
 
+## About Me
 
-##
-🌟 From <a target="blank" href="https://github.com/dslord">Devansh Singh / dslord</a>
+* Computer Science Engineering student from India
+* Currently focused on **C++ and Data Structures & Algorithms**
+* Currently learning **Java**
+* Building projects to apply what I learn
+* Interested in **Android and mobile application development**
+* Improving problem-solving skills through DSA and competitive programming
+* Exploring different areas of software development through practical projects
+
+## Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+### Web and App Development
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### Databases and Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+
+---
+
+## Problem Solving
+
+I'm actively practicing **Data Structures & Algorithms in C++** and improving my problem-solving skills through LeetCode and competitive programming.
+
+<p align="center">
+  <a href="https://leetcode.com/u/dslord/">
+    <img src="https://img.shields.io/badge/LeetCode-dslord-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/devansh_singh_b4">
+    <img src="https://img.shields.io/badge/HackerRank-devansh__singh__b4-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dslord">
+    <img src="https://img.shields.io/badge/GitHub-dslord-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devansh-singh-939734378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dslord95/">
+    <img src="https://img.shields.io/badge/Instagram-dslord95-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Email:</strong> devanshsingh3107@gmail.com
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dslord&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
+  <img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Building. Learning. Solving. Repeating.</strong>
+</p>
+
+<p align="center">
+  Devansh Singh / dslord
+</p>

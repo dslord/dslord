@@ -94,9 +94,7 @@ I'm actively practicing **Data Structures & Algorithms in C++** and improving my
 ---
 
 <p align="center">
-  <strong>Building. Learning. Solving. Repeating.</strong>
+  <strong>Building. Learning. Solving.</strong>
 </p>
 
-<p align="center">
-  Devansh Singh / dslord
-</p>
+🌟 From <a align="center" target="blank" href="https://github.com/dslord">Devansh Singh / dslord</a>

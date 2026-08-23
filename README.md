@@ -8,9 +8,7 @@
 
 ## About Me
 
-* Computer Science Engineering student from India
 * Currently focused on **C++ and Data Structures & Algorithms**
-* Building projects to apply what I learn
 * Interested in **Android and mobile application development**
 * Improving problem-solving skills through DSA and competitive programming
 * Exploring different areas of software development through practical projects

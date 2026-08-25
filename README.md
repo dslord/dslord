@@ -66,8 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-rho-two.vercel.app/api?username=dslord&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
-  <img src="https://readme-stats-rho-two.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dslord&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dslord&layout=compact&theme=dark&size_weight=0&count_weight=1&hide_border=true" />
 </p>
 
 ---
